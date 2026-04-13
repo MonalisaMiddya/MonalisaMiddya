@@ -1,4 +1,4 @@
-### Hi there! I’m a Mathematician, currently interested in **_Neural Data Analysis_** using **_MNE Python_**. I am enrolled with the **_Department of Managemnt, Dalhousie University_**.  
+### Hi there! I’m a Mathematician, currently interested in **_Neural Data Analysis_** using **_MNE Python_**. I am enrolled in the **_Department of Managemnt, Dalhousie University_**.  
 
 <!--
 **MonalisaMiddya/MonalisaMiddya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
