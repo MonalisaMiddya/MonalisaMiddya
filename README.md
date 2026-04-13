@@ -1,4 +1,4 @@
-## Hi there 👋
+### A Mathematician with current interest in Neural Data Analysis. I am enrolled in the Department of Management, Dalhousie University.
 
 <!--
 **MonalisaMiddya/MonalisaMiddya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
